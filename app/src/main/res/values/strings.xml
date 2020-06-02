@@ -1,0 +1,18 @@
+<resources>
+    <string name="application_name">BakingApp</string>
+
+    <string name="app_name">BakingApp</string>
+    <string name="appwidget_text">Ingredients Widget</string>
+    <string name="appwidget_default_text">When you open a recipe, the ingredients will appear here!</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="is_tablet_key">TabletKey</string>
+    <string name="recipe_key">RecipeKey</string>
+    <string name="step_key">StepKey</string>
+    <string name="ingredients_key">IngredientsKey</string>
+    <string name="ingredients_string_key">IngredientsStringKey</string>
+    <string name="rv_state_key">RvStateKey</string>
+    <string name="player_position_key">PlayerPosition</string>
+    <string name="player_state_key">PlayerState</string>
+
+</resources>
